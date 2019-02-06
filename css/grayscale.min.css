@@ -367,8 +367,8 @@ footer{padding:5rem 0}
 	
 	
 	
-	
-.container1 {
+/*Controls overlay in About section with information on Heath */	
+.container2 {
   position: relative;
   width: 50%;
 }
@@ -379,7 +379,7 @@ footer{padding:5rem 0}
   height: auto;
 }
 
-.overlay {
+.paragraph2 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -391,11 +391,11 @@ footer{padding:5rem 0}
   transition: .5s ease;
 }
 
-.container1:hover .overlay {
+.container1:hover .paragraph2 {
   height: 100%;
 }
 
-.text1 {
+.text2 {
   color: white;
   font-size: 20px;
   position: absolute;
