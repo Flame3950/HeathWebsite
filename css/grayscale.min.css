@@ -373,7 +373,7 @@ footer{padding:5rem 0}
   width: 50%;
 }
 
-.photo {
+.vonny {
   display: block;
   width: 100%;
   height: auto;
@@ -391,7 +391,7 @@ footer{padding:5rem 0}
   transition: .5s ease;
 }
 
-.container1:hover .paragraph2 {
+.container2:hover .paragraph2 {
   height: 100%;
 }
 
