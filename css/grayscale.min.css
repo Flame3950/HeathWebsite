@@ -298,6 +298,12 @@ a:focus,a:hover{
    text-decoration:none;
    color:#3c6360
 }
+
+a[href^="#page-top"]{
+	color:blue;
+}
+
+
 .bg-black{
    background-color:#161616!important}
 
