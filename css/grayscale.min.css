@@ -19,8 +19,8 @@
   font-weight:700;
 	padding:.9rem 0;
 	
- -webkit-animation: flip-scale-2-hor-bottom 0.5s linear both;
-	        animation: flip-scale-2-hor-bottom 0.5s linear both;
+ -webkit-animation: flip-scale-2-hor-bottom 2s linear both;
+	        animation: flip-scale-2-hor-bottom 2s linear both;
 }	  
 	  
 @-webkit-keyframes flip-scale-2-hor-bottom {
