@@ -292,16 +292,14 @@ body{
 	}   
 }
 a{
-   color:#64a19d
+   /* color:#64a19d */
+   color:blue;	   
 }
 a:focus,a:hover{
    text-decoration:none;
    color:#3c6360
 }
 
-a[href^="#page-top"]{
-	color:blue;
-}
 
 
 .bg-black{
