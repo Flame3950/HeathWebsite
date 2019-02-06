@@ -17,9 +17,8 @@
 #mainNav .navbar-brand{
   color:#161616;
   font-weight:700;
-	padding:.9rem 0}
-
-.nav-brand{
+	padding:.9rem 0;
+	
  -webkit-animation: flip-scale-2-hor-bottom 0.5s linear both;
 	        animation: flip-scale-2-hor-bottom 0.5s linear both;
 }	  
