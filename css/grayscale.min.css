@@ -369,7 +369,7 @@ footer{padding:5rem 0}
 	
 /*Controls overlay in About section with information on Heath */	
 .photo {
-  position: relative;
+  float:left;
   width: 50%;
 }
 
